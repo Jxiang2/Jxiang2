@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jingyu Xiang (Henry)
-- 👀 I’m interested in JavaScript/TypeScript, Java, Python, ReactJS, NodeJS, Django
+- 👀 I’m interested in JavaScript/TypeScript, Python, Java, SQL, ReactJS, NodeJS, Django
 - 🌱 I’m currently learning Spring/Spring boot
 - 📫 xjyhenry@gmail.com
 
